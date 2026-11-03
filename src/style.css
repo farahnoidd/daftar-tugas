@@ -1,10 +1,10 @@
 * { box-sizing: border-box; }
-body { margin: 0; font-family: system-ui, sans-serif; background: #f3f4f6; color: #111827; }
+body { margin: 0; font-family: system-ui, sans-serif; background: #e3cecd; color: #111827; }
 .container { max-width: 720px; margin: 0 auto; padding: 1.5rem 1rem; }
 h1 { text-align: center; }
 form { display: grid; grid-template-columns: 1fr 1fr 1fr auto auto; gap: .5rem; margin-bottom: 1rem; }
 input, button { padding: .6rem; border: 1px solid #d1d5db; border-radius: 8px; font: inherit; }
-button { background: #2563eb; color: #fff; border: 0; cursor: pointer; }
+button { background: #644055; color: #fff; border: 0; cursor: pointer; }
 button.danger { background: #dc2626; }
 button[hidden] { display: none; }
 ul { list-style: none; padding: 0; display: grid; gap: .75rem; }
